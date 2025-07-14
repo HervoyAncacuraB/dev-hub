@@ -1,8 +1,30 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DevHub
+description: un espacio personal para compartir conocimientos y recursos de desarrollo
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+#url: https://just-the-docs.github.io
+plugins: 
+  - emoji
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub: https://github.com/HervoyAncacuraB
+  Portfolio: https://portfolio-3e5ce.web.app/home
+aux_links_new_tab: true
+
+# collections:
+#  fundamentos:
+#    permalink: "/:collection/:path/"
+#    output: true
+#  implementacion:
+#    permalink: "/:collection/:path/"
+#    output: true
+
+# just_the_docs:
+#   collections:
+#     fundamentos:
+#       name: 'Fundamentos'
+#       nav_exclude: false
+#     implementacion:
+#       name: 'Implementacion'
+
+#       nav_exclude: false
