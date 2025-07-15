@@ -9,7 +9,7 @@ nav_order: 1
 
 ### Mi portafolio, está en construcción:🏗️🚧🥹 [Portafolio de proyectos] 💼
 
-### Si quieres crear un blog similar, puedes usar el template de [Just the Docs][README] que es un tema para [Jekyll][Jekyll] que se puede usar con [GitHub Pages]. 👍
+### Si quieres crear un sitio como este, puedes usar el template de [Just the Docs][README] que es un tema para [Jekyll][Jekyll] que se puede usar con [GitHub Pages]. 👍
 
 ----
 
