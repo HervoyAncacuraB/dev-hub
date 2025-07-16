@@ -12,21 +12,26 @@ aux_links:
   CodePen: https://codepen.io/Hervoy-Ancacura
 aux_links_new_tab: true
 
-# collections:
-#  fundamentos:
-#    permalink: "/:collection/:path/"
-#    output: true
-#  implementacion:
-#    permalink: "/:collection/:path/"
-#    output: true
+collections:
+  001_Ecommerce:
+   permalink: "/:collection/:path/"
+   output: true
+  fundamentos:
+   permalink: "/:collection/:path/"
+   output: true
+  implementacion:
+   permalink: "/:collection/:path/"
+   output: true
 
-# just_the_docs:
-#   collections:
-#     fundamentos:
-#       name: 'Fundamentos'
-#       nav_exclude: false
-#     implementacion:
-#       name: 'Implementacion'
+just_the_docs:
+  collections:
+    fundamentos:
+      name: 'Fundamentos'
+      nav_exclude: false
+    implementacion:
+      name: 'Implementacion'
+    001_Ecommerce:
+      name: '001-Ecommerce'
 
 #       nav_exclude: false
 

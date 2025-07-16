@@ -21,3 +21,4 @@ A e-commerce Proyect
 * Frontend: React o Angular
 * Base de Datos: PostgreSQL
 * Despliegue: Docker, Kubernetes
+* Micrometer Tracing to capture capture distributed tracing
