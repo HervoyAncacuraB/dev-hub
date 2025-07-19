@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lista de Componentes                
-has_children: true                      # ¡Importante! Indica que tiene sub-páginas/secciones
-nav_order: 1                            # Orden de esta colección en la barra lateral (si tienes varias)
+title: Lista de Componentes
+has_children: true
+nav_order: 3
 ---
 
 ### Lista de Componentes

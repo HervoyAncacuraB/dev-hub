@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Proyecto E-commerce
-nav_order: 3
+title: Home
+has_children: true
+nav_order: 1
 ---
 
 ## E-commerce Proyect 🪙
